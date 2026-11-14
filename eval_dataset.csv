@@ -1,0 +1,513 @@
+,book,input,expected_output,retreived_context
+0,Anna Coulling,How does the ‘equivolume’ technique differ from traditional Volume Price Analysis?,"The x-axis (time) is replaced with volume, displaying a better relationship between volume and price through visual boxes that vary in width based on volume.","The concept is one in which volume is considered to be more
+ important than time, and as such the X axis of the chart is replaced with
+ volume, whilst the Y axis remains as before with price. The principle idea is
+ that in adopting this approach in presenting the price and volume relationship
+ on the chart, this emphasizes the relationship, with volume moving to the
+ chart itself, where it joins price, rather than as an isolated indicator at the
+bottom of the chart. As a result, and with the change in the X axis from time,
+ to volume, the ‘time’ element is removed and the focus is then solely on the
+ volume price relationship. This relationship is then presented in the form of ‘boxes’. The vertical element of the box, in other words the height, is simply the high and low of the session in terms of price."
+1,,Why is volume the only reliable leading indicator in trading?,It reveals the market's direction by showing whether the price action is valid or false. Volume is the only tool that allows traders to see the actual activity behind price moves.,"To me, a price chart with no volume is only part of the story. Price does
+ encapsulate market sentiment at a given and precise moment in time, but with
+ so much market manipulation prevalent in so many markets, why ignore such
+ a valuable tool which is generally provided free.
+ Whilst price is a leading indicator, in itself, it only reveals what has gone
+ before, from which we then interpret what is likely to happen next. Whilst we
+ may be correct in our analysis, it is volume which can complete the picture.
+ In a manipulated market, volume reveals the truth behind the price action. In
+ a pure market, volume reveals the truth behind market sentiment and order
+ flow."
+2,,How does only price fail to reveal the true nature of market moves?,"It only reflects buying and selling activity, but not the extent of future price moves or whether a move is genuine or manipulated.","Price on its own simply reveals the buying and the selling. What it never reveals is the extent of any future price move, and more importantly whether that price move is a fake move."
+3,,What are the two primary things that Volume Price Analysis aims to identify in market analysis?,"Volume Price Analysis aims to identify validation of price by volume and detection of anomalies where price and volume do not agree, indicating potential changes.","Whether the price has been validated by the volume, or whether there is an anomaly with the price. If the price is validated then that confirms a continuation of the price behaviour. By contrast if there is an anomaly, then this is sending a signal of a potential change."
+4,,What is the significance of accumulation and distribution in Volume Price Analysis?,"They represent phases where insiders prepare the market for extended price moves. Accumulation is building inventory, while distribution means selling off the inventory."," Accumulation then, is the term used to define an 'accumulation phase' which
+ is the period that the insiders go through to fill up their warehouse, prior to
+ launching a major marketing campaign on selling their stock. So
+ accumulation is buying by the insiders, and depending on which market we
+ are considering, can go on for weeks or months, depending on the instrument
+ being acquired... So what is the typical pattern for our distribution phase, and how is it managed? First, the market breaks out from the end of the accumulation phase, moving higher steadily, with average volume. There is no rush as the insiders have bought at wholesale prices and now want to maximise profits by building bullish momentum slowly, as the bulk of the distribution phase will be done at the top of the trend, and at the highest prices possible. Again, given the chance we would do the same. The move away from the accumulation phase is now accompanied by 'good news' stories, changing sentiment from the 'bad news' stories which accompanied the falling market."
+5,,What role do stopping volume and topping out volume play in Volume Price Analysis?,"They're crucial indicators of potential reversals. Stopping volume indicates buying interest at a market bottom, while topping out volume signals excessive selling pressure at a market top.","Volume in the futures market, which is the purest form of buying and selling reveals when the market is running out of steam. It reveals whether buying interest is rising or falling on a daily basis. It reveals all the subtleties of pull backs and reversals on tick charts and time charts from minutes to hours. Volume is the fuel that drives the market. Volume reveals when the major operators are moving in and out of the market. Without volume, nothing moves, and if it does move and the volume is not in agreement, then there is something wrong, and an alarm bell rings! For example, if the market is bullish and the futures price is rising on strong and rising volume, then this is instantly telling us that the price action is being validated by the associated volume. The major operators are buying into the move. Equally, if the market is falling and the volume is rising, then once again volume is validating price"
+6,,How does combining volume with support and resistance enhance a trader’s ability to predict market moves?,"Combining volume with support and resistance yields stronger validation signals. Breakouts from consolidation areas, paired with volume, are strong indications of market moves.","A breakout from one of these regions of consolidation, coupled with volume, is always a strong signal."
+7,,What is the recommended approach for integrating Volume Price Analysis in practical trading?,"Using Volume Price Analysis alongside other techniques such as support and resistance, trends, and price pattern analysis to achieve a full understanding of the market."," VPA is only part of the story. We always use a variety of other techniques to
+ confirm the picture and provide additional validation. The most important of
+ these are support and resistance"
+8,American Men and Women of Science,How can Pareto's Law be applied to trading to improve efficiency?,"Pareto’s Law can be applied to trading by programming computers to condense the information to focus on the most valuable indicators. Instead of perfecting a single indicator, it's more effective to program multiple indicators to capture the most essential information within a broader scope."," To apply Pareto’s law to trading, traders should process the most useful indicator information, disregarding more trivial details. In terms of technical analysis, 20 percent of what can be programmed about an indicator or technique will capture 80 percent of the value of that technique. Therefore, to examine a single indicator, 80 percent of our effort is used to understand the last 20 percent of detail. Instead, five indicators may be programmed to capture
+ 80 percent of the value of each. Using the same amount of effort, the scope with which the market can be viewed increases by 400 percent."
+9,,Why is it important for traders to understand that markets are symmetrical across time frames?,"It allows traders to apply strategies effectively across different time periods, highlighting the fractal nature of the market where patterns at smaller time frames can resemble those at larger ones. "," First, the market is fractally symmetrical, meaning that, at different levels, the market looks the same. A set of Russian dolls provides a good illustration of this concept. A Russian doll set contains increasingly smaller dolls inside each doll. When the biggest doll is opened, a smaller, duplicate doll is found inside. When that smaller doll is opened, another still smaller doll is found inside. The third doll opens to a fourth, which opens to a fifth, until the last doll is too small.
+ The market is similar. Second, most of us think about the market in terms of time. If we review and evaluate the market on a monthly basis, for example,
+ we see certain patterns, trends, and formations; and if we look at charts on a weekly, daily, hourly, or E-minute basis, we see the same patterns. "
+10,,What are the most commonly used retracement percentages in technical analysis?,"The most commonly used retracement percentages are 38%, 50%, and 62%. Retracements of 21% and 89% also occur frequently. ","The most commonly used retracement percentages are 38,50, and 62. The markets in general seem to “rebound” to these levels. Retracements of 21 and 89 percent also occur too often to be ignored, indicating that the initial force was either very strong or very weak."
+11,,How does scaling-up in time reduce trading risk?,"By increasing the time-frame of trades while using profits from shorter time-frame trades as a buffer against the increased risk of longer time-frame trades, traders mitigate risk by providing profit cushions that reduce overall exposure during longer-term trades.","In actual practice, a trader would not use so many multiple increments. The idea, however, is that a successful trade in a short time-frame bar will offer a profit in a position to buffer the level of risk in a medium time-frame bar. If there is a profit in the medium time-frame, a buffer against the risk will be taken in an even longer time-frame bar, and so on. This is the concept of “scaling-up” to higher or longer-term time-frames."
+12,,Why is the PeakOscillator considered more effective than traditional momentum indicators?,"It identifies non-divergent turns that traditional indicators often miss, which makes it more accurate in detecting market turns.",The PeakOscillator also catches divergences often missed by other indicators because it is based on a measure of serial dependency over a look-back length that adapts automatically to the most significant cycle length
+13,,Why is the Kase Dev-Stop considered effective for optimizing stops?,"It balances letting profits run and cutting losses through a three-level stop mechanism, minimizing uncertainty and offering a structured method for adjusting stops according to changing market volatility.","The Dev-Stop gives us the best compromise between letting profits run and cutting losses. I normally use a three-level stop (1, 2, 3 standard deviations of a two-bar reversal above the mean), with the mean used as a warning line. All of the above is corrected for skew."
+14,,How do Kase Universal Bars provide freedom from time and space in trading?,"By using a consistent range measurement instead of time-based intervals, this approach reduces variability through producing bars that are regular and closely sized, making market turns and trends clearer and less prone to noise.","We found that the amount by which the actual range of the 15-minute bars differed from the five-cent average range was by three cents, exhibiting a standard deviation of 2.2. The universal bars differed from the five cent average by 0.7 cents and had a standard deviation of 0.5. Thus, there is about a 75 percent reduction in the variability of the bars."
+15,,When should trades be made?,"Trades should be taken at the end of the day, rather than waiting for the next day."," As we stated earlier in our common sense rule, it is always wiser to take trades just prior to the end of the day as they are generated than to wait for the following morning. "
+16,,How does the Kase Permission Stochastic allow traders to be aggressive?,It gives the trader a higher time-frame that allows them to use a momentum filter to account for time sensitivity.,"If trading lo-minute bars and screening lo-minute bars with 50-minute bars, a trader can define the  50-minute screening time frame as the  50.minutes up to and including the completion of the current lo-minute bar. Thus, he has a moving, higher time-frame screen or window that updates at the completion of every bar. This is the best compromise between conservatism (by screening all trades in a higher time-frame) and time sensitivity (by using the momentum filter that updates at the end of every bar). The trader would not have been excessively conservative in screening and would have taken the most aggressive (justifiable) approach."
+17,,Why shouldn't traders read the news relevant to their invested markets?,"Such factors are already accounted for in the market price, and reacting would just miss the correct interpretation of such changes.","Even those who have timely, relatively complete and accurate information are not always correct in their interpretations. They often miss the market’s interpretation of actions such information will cause. Technical analysis works on the assumption that all fundamental information is already reflected in the market’s price. In a world in which information transfer is virtually instantaneous, anything that affects the markets (weather, shortages, supply/demand considerations, etc.) is almost instantaneously reflected in price, volume, velocity, acceleration, and volatility "
+18,Marko Papic,What weaknesses does the intelligence model suffer from?,Today this model suffers from the statistical significance problem and that many geopolitical and political risks are no longer relevant in EMs,"The first is the “statistical significance” problem. To make a reasonable forecast or net assessment, public (government) agencies rely on signals from electronic and human signals (data points), creating a mosaic of information and sources that approaches some reasonable level of statistical significance. This massive data collection is beyond the scope of
+any political consultancy, which, by definition, is a for-profit business
+that cannot rely on endless state resources to collect intelligence. Instead
+of a mosaic of intelligence, the investor quite often gets an over-the-hill
+technocrat looking to cash out. The technocrat sits across from them in
+the boardroom, at best giving them useful background on a particular
+issue, at worst regurgitating Wall Street Journal and Financial Times op-eds.
+The second limitation of the intelligence model is that today’s
+geopolitical and political risks are no longer only investment-relevant
+to frontier and emerging markets (EMs). An intelligence-led model of
+political analysis might work in a simple political system, where access to
+the key decision-makers is all that one needs. Similarly, getting (legal!)
+policy intelligence on a particular regulatory matter may indeed generate
+alpha. But in complex political systems of the most liquid markets – the
+US, China, the EU, India, and other large EM economies –
+access to power does not guarantee insight. This is because power is
+diffuse and checked by constitutional and bureaucratic constraints."
+19,,How important is political analysis when making trading decisions?,"It is absolutely not required. Many people will say it is ""nice-to-have"" (albeit not a must-have), but in short it is a convinient means to assert blame in case something unexpected happens. Apart from that it does not belong in the decision process","The criticism I’ve heard most often is that “political analysis is a nice-to-have, but it is not a must-have.” It is marginal to the decision-making process – at best, a handy tool when an exogenous event threatens one’s strategic decisions. Another way to put it is, “We will cry geopolitics when something blows up, just so we have a scapegoat to blame for our faulty predictions.” My answer to this view is: “Don’t bother. When something blows up, buy everything.” Other than the 1973 Yom Kippur War, few geopolitical events since the Second World War have been disastrous for the markets"
+20,,Is more information/observation always better to achieve higher accuracy forecasting results?,"No, more often than not all observable data is not equal and what matters more is the quality of dataset over the quantity","For investors used to quantification, a focus on the material world should
+be welcome. Constraints are observable and therefore empirical.
+To find these constraints, investors should observe as much as possible
+about the real world, right? Wrong. Not all observable data is created equal, and more information often does not produce superior forecasting
+results. The quality of the data matters more than its quantity, especially
+in circumstances where a complete data set is impossible to obtain."
+21,,How should one go about obtaining information relevant to trading?,"An investor shoud approach all aspects with skepticism however the experts that they should approach are academics, technocrats, and regulators. Academics have their own research which may present some interesting ideas, technocrats are retired policymakers etc that worked behind the scenes and reall know how the world works, while regulators give sector specific insights","They just need to approach all aspects of that outside world with
+healthy skepticism. There are three types of experts that I recommend
+seeking out as much as possible: Academics: Academia is filled with undervalued and underappre-
+ciated assets. Instead of talking to some slick geopolitical consultant
+over an overpriced meal at a Mayfair restaurant, email an academic
+who spent the last 20 years of his life researching the topic at hand.
+Academics are open to interacting with the private sector. Don’t just
+reach out to the top academics with a hot reputation; they are most
+likely publishing more op-eds than original research. Reach out to
+the ones passionate about their research and willing to take the time
+to connect the dots for you. Just be careful to put their views into
+your own constraint-based net assessment. Don’t let the actual expert
+tell you what the market is going to do. They do not know.
+• Technocrats: Talk to retired policymakers and insiders, but adjust
+your expectations. Know it is impossible to create a mosaic robust
+enough to have a statistically significant intelligence-driven forecast.
+If you intend to speak with former government officials, go for the
+second- and third-tier technocrats and bureaucrats rather than the
+top dogs. The top personnel are often ideological, legacy-driven,
+and disconnected from the analysts and information that made them
+valuable forecasters. Instead, reach out to the technocrats behind the
+big names that really know how the world works – or at least how
+their small slice of it does.
+• Regulators: Sector-specific insights do exist and are valuable. If you
+need sector intelligence, hire a consultant that specializes in regula-
+tory analysis. These are usually people who worked in regulatory
+agencies and understand those archaic webs. Steer clear of consul-
+tancies that claim they can predict regulatory churn through big data.
+I don’t buy it, though I’m willing to be proven wrong. Talk instead
+to the old hands who know how the regulatory sausage is made."
+22,,What is the worst way to forecast?,When basing forecasts off of one theory/approach and instead of seeking the right answer just chasing empty theories,"the worst forecasters are
+those who “know one big thing,” who base their forecasts on a singular
+approach or theory.3 Instead of seeking the right answer, they seek time-
+and theory-saving ones."
+23,,How does political power play a role in trading decisions?,"Political power is more ambiguous and difficult to quantify as it is simpler to compare material power. However, as we know policymakers with lots of capital and make many structural reforms - and this is extremely relevant when it comes to investors and decisions they have to make.","Political power is difficult to quantify or – most relevant for
+
+investors – compare across economies. It is simpler to compare coun-
+tries’ material power.6 Ambiguity in political capital makes it more
+
+difficult to assess, for example, who has greater ability to enact policies:
+President Trump or President Macron.
+For investors, this hard-to-quantify factor matters. Policymakers
+with ample political capital can expend it on unpopular policies, such as
+structural reforms. Though painful, these policies tend to have a positive
+impact on the economy, domestic assets, and the country’s currency
+over the long run. China’s one-party system affords it an abundance of
+such capital, which I examine later in the chapter."
+24,,What factors affect political power?,"Market constraints and macroeconomic environment play a role in how much political power a country has. In the case of Yugoslavia, this limted howmuch the federal government could solve problems","The 1989/1990 Organization for Economic Cooperation and
+Development (OECD)’s economic survey of Yugoslavia is a heavy
+read.3 The authors do not mention the bubbling nationalism and ethnic
+tensions, but their clinical dissection of the spiraling economic crisis
+is wreathed in foreboding. Yugoslavia had many problems – and yes,
+ethnic tension was one of them – but the macroeconomic environment
+
+limited how much political capital was available for the federal gov-
+ernment to solve these problems. Had Yugoslavia enjoyed a different
+
+set of macroeconomic and market constraints, perhaps its story would
+
+3 A big shout-out to the OECD and its research staff! Their economic surveys are some of
+the best sources of information for anyone looking to get brought up to speed quickly on a
+particular country. The fact that their archive has old surveys available is also indispensable
+to any student of historical economic and financial crises.
+
+Trim Size: 6in x 9in ❦ Papic740216 c05.tex V1 - 08/29/2020 6:23 P.M. Page 106
+
+❦ ❦
+
+❦
+106 THE CONSTRAINTS
+not have ended in 1991.4 Reformers like Markovic may have had more  ́
+maneuvering room to buy the loyalty of federal armed forces and move
+against the nationalists with force. Alas, we will never know."
+25,,How important is geopolitics in making forecasts?,"Geopolitics is analytical fast food. And despite its limitations, it plays a role in most international events and so if used with other factors it is extremely important in making knowledgable decisions","geopolitics can be a one-stop shop for making fore-
+casts. It is analytical fast food – an intelligence-by-assembly-line approach
+
+to forecasting. My favorite of these happy-meal forecasts include the
+following: Polish policymakers will always approximate paranoia, given
+that they are located on the North European Plain; the US will forever
+remain a safe haven, thanks to its two oceans;8 and China will never gain
+global influence because it is hemmed in by the Tibetan plateau on the
+west, the Gobi Desert in the north, and the “first island chain” in the east.
+Relying on geopolitics in isolation is like driving a car with a
+rearview mirror, a GPS system, and a pitch-black windshield. The
+driver knows where he’s been and the final destination, but he’s
+completely blind to what is right in front of him."
+26,,What are the criticism's of the constraint frameworks?,"The framework focuses on material constraints and even if policymakers are irrational, it does not change reality. An example is if the median voter believes covid will kill them then that belief is a material constraint and needs to be addressed by policymakers because of the risk curve","Over the past decade, my clients’ number-one criticism of the constraint
+framework has been that policymakers are not rational. This point is not
+a major flaw of the framework. Even an irrational policymaker cannot
+run through a wall. The framework focuses on material constraints, and
+no amount of irrationality can alter reality.
+Had clients instead pointed out that the collective population can be
+irrational, I would have had a harder time justifying that flaw. As the
+
+examples of terrorism and COVID-19 illustrate, fear creates its own real-
+ity. There is a reflexive relationship between the median voter – the public
+
+at large – and reality. If every voter suddenly demanded a teal Hyundai
+Sonata, I am pretty sure that they would get one. If median voters believe that COVID-19 will kill them and their
+children, that belief isa material constraint. Policymakers have to respond
+to such a fear with measures that may cause an economic depression.
+The mass hysteria of voters is an imminent constraint, but an economic
+depression is further afield, further down the risk curve. As such,
+even a rational policymaker, grounded in material reality, can use the
+shorter-term constraint as a reason – and in fact could be forced – to
+pursue policies that may have disastrous long-term implications."
+27,Market Wizards,What are the key advantages of trading futures markets over cash markets?,"The key advantages are standardized contracts, high liquidity, ease of going short, leverage, low transaction costs, and guarenteed execution by the exchange.","While hedgers, such as the above automobile manufacturer... have never ventured beyond stocks and bonds (page 11)"
+28,,What are the elements of good trading?,"The key elements include conviction, flexibility, contrarian insight, respect for opposing views, position sizing courage, intellectual honesty, and adaptability.",Good trading is a peculiar balance between the conviction to follow...never have heard of michael steinhardt. (page 84)
+29,,What principles of Jim Rogers' are of great relevance to all traders?,"The key principles are buy value, sell hysteria, wait for a catalyst, be very selective, be flexible, never follow conventional wisdom, and know when to hold and when to liquidate a losing position.",Jim Rogers' unique approach may be difficult...traders who fully understand the risks involved. (page 120)
+30,,"When you are going bad, but still ahve some good positions on, do you liquidate them as well?","Yes, they are bound to turn against you. Getting out of everything allows the trader to achieve greater clarity.",When you are going bad...can always be reentered once the trader has regained his confidence. (page 136)
+31,,Why are beliefs important for trading success?,"Beliefs shape a trader's mindset, influencing discipline, risk-taking, and emotional control.","""Most people approach trading to make a lot of money, and that is one of the primary reasons they lose. Because money is so important, they have trouble taking losses and letting profits run."" (page 154)"
+52,Kaeppel Jay,"How does emotional attachment to capital impact a trader’s success in futures, and how can this risk be mitigated through planning?",Emotional attachment to capital leads traders to make impulsive decisions. Kaeppel suggests only trading with money you can afford to lose and emotionally disconnecting from capital. He also recommends creating a structured trading plan with detailed exit strategies and risk boundaries to reduce emotion-based decisions.,Discusses how traders’ emotions interfere with execution. Planning is emphasized as a way to reduce emotional bias.
+53,,"Why do many traders fail to develop a trading plan despite its proven importance, and what fundamental questions should be addressed when creating one?"," Traders are often lured by the idea of easy money and rush in without preparation. Kaeppel advises addressing key factors like entry/exit criteria, trading timeframes, markets, and methods, and following “The Four Cornerstones” of trading success.","Explains how traders ignore planning due to greed or inexperience, and introduces the Four Cornerstones framework."
+54,, Why is leverage considered the most dangerous factor in futures trading?,"Leverage amplifies both profits and losses, and is often misunderstood by traders. Most people blame market volatility for their losses, but it's the misuse of leverage that is truly dangerous.",While there is no question that futures markets can be volatile at times... it is not the volatility of the markets that causes the majority of problems. What causes most of the problems is the amount of leverage used when trading futures.
+55,,What role does emotional discipline play in successful futures trading?," Emotional discipline is essential. Losing traders react impulsively to losses, while successful ones follow their plan regardless of emotional impulses.",Losing traders follow through on this urge to act. Winning traders do not. Winning traders do what they are supposed to do.
+56,, What’s the core mistake traders make regarding risk control?, Many traders fail to control risk properly by not setting stop-losses or diversifying. Even successful traders can lose everything from one poorly managed trade.,Risk control in futures trading is NEVER optional... Even veteran traders who should know better occasionally fail to keep their guard up.
+57,, How should traders decide when to exit a trade with a profit?, Traders must choose a consistent method for profit-taking and apply it systematically. Consistency is key.,Whatever technique you decide upon for exiting a trade with a profit you must apply trade after trade after trade.
+58,,   Why do many traders ignore proper capital allocation?,Many allocate funds based on what they can afford to lose without analyzing market volatility. This oversight can lead to devastating drawdowns.,"Many traders... start trading, with little or no analysis regarding the kind of volatility and drawdowns they might expect... The impact can be disastrous."
+59,, Why is it dangerous to trade futures for the excitement?, Trading for thrills leads to poor decision-making. The lure of action overrides the discipline needed for consistent success.,"The lure of easy money, the lure of excitement, and an utter lack of preparedness... are why most traders fail."
+60,,What does Kaeppel say about stop-loss orders?, Many allocate funds based on what they can afford to lose without analyzing market volatility. This oversight can lead to devastating drawdowns.,"Many traders... start trading, with little or no analysis regarding the kind of volatility and drawdowns they might expect... The impact can be disastrous."
+62,Max Dama,How does Max Dama describe the difference in performance between machine learning models using price-based features versus those using fundamental data?,"He notes that price-based features tend to be more robust for short-term predictions due to their higher frequency and predictive power, while fundamental data is better for longer-term strategies."," In practice, fundamental data is updated quarterly and lags real-time price changes. On the other hand, price-based features such as momentum, moving averages, and volatility can be updated daily or even intraday, providing more immediate signals for short-term strategies."
+63,,"What is the rationale behind using rolling window cross-validation in financial models, according to Max Dama?","Rolling window cross-validation mimics real-world conditions by training on past data and testing on future, unseen data to reduce overfitting and account for non-stationarity.", A standard k-fold cross-validation may leak future information. A rolling window approach helps prevent that by training on past data and validating on sequentially future data windows.
+64,,What is the key problem with using batch algorithms instead of online algorithms in trading?," Batch algorithms train on the entire dataset, leading to overfitting. Online algorithms are preferred because they work with sliding window validation and are more efficient for high-frequency strategies."," Batch, rather than online, algorithms encourage the terrible practice of fitting the model on the entire set, which causes overfitting."
+65,, How does exponential smoothing help improve trading signals?," Exponential smoothing maintains predictive power while extending the information horizon, giving more time to act on a signal and reducing noise.","Applying an exponential moving average will often maintain the same good predictive performance since it still weights recent values the most, but it will also help push the peak of the information horizon out further so you have more time to act on it."
+66,, Why is normalization important when creating trading signals?," Normalization adjusts for the absolute size of values and creates signals that are proportional and consistent, improving signal accuracy.", We are more interested in the proportional difference between the bid and ask… normalize as in the first formula above increased the information coefficient from 0.02907 to 0.03893.
+67,,What is the purpose of using a rolling window for regression in backtesting?," A rolling window prevents overfitting by only training on a limited recent subset of data, better reflecting real trading conditions.",A lagging window of 700 points were used to train each regression… trimming the outliers of the historical returns in the training set often makes out-of-sample predictions more accurate.
+68,,What is the Kelly Criterion and how is it applied in trading?,The Kelly Criterion optimizes position sizing by maximizing expected log utility. It's used to find the optimal fraction of capital to bet for compound growth.,      To maximize risky profits you should maximize (average profit-loss)/(standard deviation of PnL)… called the Kelly Criterion.
+69,, What is the main danger of machine learning models in trading?," If given too much flexibility, machine learning models overfit to historical data and perform poorly in real trading.","If you give a machine learning algorithm too much freedom, it will pick a worse model. The model will work well on the historical data set but poorly in the future."
+70,,How can we prevent overfitting in trading strategies?," Avoid overly complex models, use realistic assumptions, and prefer simple and interpretable features with sliding window validation.", Overfitting will typically rear its ugly head when the two MA lengths are almost equal… during a perfect little time period [in the past].
+71,,  What is alpha loss and how does it affect trading execution?," Alpha loss refers to the profit decay while waiting to execute a trade. The longer it takes to enter, the less profit remains from the original signal."," If it takes you 20 minutes to scale into the position… then you only get to ride the momentum from time T + 20 to T + 60, i.e. 40 minutes instead of 60 minutes."
+72,Michael Covel,What was the purpose of Richard Dennis' turtle trader experiment?,Dennis wanted to prove that trading success could be taught instead of being an innate talent. He wanted to turn trading into a set of rules.,"""My partner Bill has been a friend...that made someone a good trader"" (page 3)"
+73,,How did Richard Dennis select candidates for his Turtle Trader experiment?,Dennis looked for diverse and unconventional thinkers who demonstrated risk-taking and problem solving skills.,"Dennis, however, was not looking solely for doormen and fl oor trad- ers. He went after the highly educated, too. Michael Cavallo had a Harvard MBA. With a mop of brown hair and wire- rimmed glasses, he was a preppy corporate warrior working in Boston when he caught wind of the ad that would change his life. When he saw the ad, Cavallo had already heard of Dennis. He re- called, “I nearly fell out of my seat when I saw it. He was looking for starting shortstop. I couldn’t believe it. This is sort of a dream job for me. I immediately responded.” There was plenty of serendipity as other potential students learned of the experiment. Former U.S. Air Force pilot Erle Keefer’s path to Dennis was pure coincidence as well. He was sitting in a New York City sauna when he picked up a newspaper and spotted the Den- nis ad. At that moment the female star of the movie Trading Places, Jamie Lee Curtis, was sitting in the same sauna with her boyfriend. Keefer was sitting there reading Barron’s. “I am looking at this ad and I knew who Rich was. I said, ‘Wow! This guy did it.’ ” Keefer thought there was little chance he would get accepted. In the strictly man’s world of commodities trading in the early 1980s, women did apply. Liz Cheval, the diminutive and fl amboyant Katie Couric look- alike, was one of them. She must have known that she would stand out from other applicants by being female. At the time she was actively considering a career in filmmaking, even though she was working for a brokerage firm as a day job.4 Cheval’s former boss, Bradley Rotter, knew the offer was a big deal: “Dennis had already been managing money for me, and I did very well. Liz came to me and said she was thinking about applying and asked whether or not she should do it and I said absolutely. It was an opportunity of a lifetime.” The Turtles 33 Jeff Gordon, an attorney and small business owner at the time, just happened to be thumbing through the newspaper and saw the ad. Gor- don, five foot eight, a slender man who could have been a former member of the Revenge of the Nerds cast, knew the opportunity could be huge: “Everybody wanted to be able to trade, to make money like Richard Dennis.” Firing off a résumé was a coincidental and fortuitous life- changing decision that Gordon made in a heartbeat. Given Dennis’s eccentric personality, it was no shock that Jiri “George” Svoboda, an immigrant from then communist Czechoslova- kia and a monster underdog in most people’s eyes, was selected. He was a master blackjack player beating Las Vegas like a drum long be- fore Breaking Vegas and 1990’s famed M.I.T. blackjack team. Dennis also selected Tom Shanks. Handsome, dark- haired, and smooth with the ladies, Shanks was working as a computer program- mer for Hull Trading as his day job and beating Vegas at night with his blackjack skills. Shanks and Svoboda knew each other from the blackjack under- ground. When they bumped into each other in Chicago, Svoboda said to Shanks, “Hey, I’m here for an interview with Richard Dennis. Have you heard?” Shanks had no clue, but said, “You’ve got to get me an interview!” They both ended up getting hired that same afternoon. Erle Keefer knew about their wild backgrounds. He said, “George ran the Czech team, and Tom was essentially with the Dingo com- puter in a boot.” Shanks used to say, “I never want to see another Dingo boot in my life.” He had to learn how to take it apart to put the com- puter in and was mighty sick of boots after a while. Other inventions allowed Shanks to be almost dead accurate as to the sequence of cards as they were dealt. How could Dennis not hire a guy who had put a computer in a boot during the 1970s? That effort just screamed, “Do anything to win.”"
+74,,What were the five key questions that the Turtles had to answer for optimal trading?,"State of the market, Volatility, Equity being traded, system/trading orientation, and risk aversion.","However, there was precision...trader or client? (page 56)"
+75,,Why did Richard Dennis shut down the Turtle program in 1988?,"Some of the factors for the shut down include massive income losses, Drexel Burnham Lambert's collapse, personal struggles, dennis's own risk taking.","It was over. Dennis sent a fax telling the Turtles that the program had been scuttled. Dennis, who was managing money for clients, too, had two public funds with Michael Milken’s Drexel Burnham Lam- bert. They closed down with big losses. The reason for the Turtle pro- gram shutdown has never been offi cially defined, but Dennis’s performance numbers painted a sobering picture: The game changed for Dennis when his losses were 55 percent in April 1988. Not only was his public fund performance beyond terrible; his father had recently died. One Turtle attributed the program’s clo- sure to “family issues.” They were tough times for sure. However, April was not a terribly tough performance month for the Turtles. They typi- cally lost 10 to 12 percent each for that month (see Appendix)."
+76,,"After the program shut down, did the turtles end up trading differently?","Despite claims, the trade models were heavily correlated indicating that they stuck to Dennis's system.","Mark Goodman, president of Kenmar Asset Allocation, a fi rm that invested with the likes of the Turtles, said what none of them wanted to hear: “If you were to put all trend- following models side by side, you would probably find that most made their profits and incurred losses in the same markets. You are not going to find that EMC [Liz Cheval] made it in one market, while Rabar made it in another. They were all looking at the same charts and obtaining the same perception of op- portunity.”22"
+77,,Why did Richard Dennis return to trading in 1944?,He saw the other turtles succeed and felt competative. He believed that if they could succeed he could as well.,"While he had taken to calling himself a “researcher” now instead of a “trader,” one of the questions Dennis was asked most frequently was, “Why are you doing this? Why step back into the fire again?” Dennis gave all kinds of answers from philanthropy to politics, but when pressed, he came back to his famous students: “I kept picking up the trade journals and seeing how much money they were managing. I thought, ‘I know I’m at least as good as some of these people.’ So I de- cided to give it another try.”4"
+78,,What traits made Parker stand out among the turtles?,"Traits include emotionally aloof, sky divers, risk takers, docially adroit, autonomous, change seekers, energetic, self-sufficient.","The Maginot line, between those Turtles who achieved huge trad-
+ing success after working for Dennis and those who failed at trading,
+
+came down to an understanding and application of entrepreneurial
+
+skills. The Turtles had to have trading rules, but without entrepreneur-
+ial savvy they were doomed. Nancy Upton and Don Sexton, professors
+
+at Baylor University who have long studied entrepreneurs, pinpointed
+traits possessed by Parker and other entrepreneurs:
+
+1. Nonconformists—lower need to conform indicating self-
+reliance.
+
+2. Emotionally aloof—not necessarily cold to others, but can be
+oblivious.
+3. Sky divers—lower concern for physical harm, but does change
+with age.
+
+Seizing Opportunity 157
+
+4. Risk takers—more comfortable taking it.
+5. Socially adroit—more persuasive.
+6. Autonomous—higher need for independence.
+7. Change seekers—like novel approaches. This is different than
+99% of all other people.
+8. Energetic—higher need and / or ability to work longer.
+9. Self- sufficient—don’t need as much sympathy or reassurance,
+but they still need to form networks so self- sufficiency need not
+be taken to extremes.8"
+79,Pablo Triana,Why is it hard to predict the impact of outliers?,"Forseeing the black swan event is hard, and prevising the outcome result is near impossible.","As the many Black Swans that have afflicted the markets show, the
+real tail events are the final consequences, rather than the (pretty Black
+Swanly in itself) occurrence that ignited the fuse. The unpredictable
+
+Russian default led to the frighteningly system-threatening LTCM melt-
+down; the unpredictable 2007 credit crisis led to the eye-popping sudden
+
+disappearance of the investment banking industry. Foreseeing the ignit-
+ing Black Swan has proven to be insurmountably challenging; prevising
+
+the outcome result is simply not possible, as the markets can literally go
+to zero, countries can go broke, and banks can melt away into oblivion."
+80,,How do quants end up having more of an impact that theorists?,What quants put together has the impact to move or change markets.,"The quants have a much more
+direct influence on actual doers. A trader may have never read the Journal
+of Finance or Econometrica (let alone acted on what they publish), but he
+is definitely accessing the quants’ models through his computer, on a
+daily basis. What quants put together (whether in the end more or less
+mathematically complex) has the power to move (and create) markets.
+Right away. The conclusion must be that while quants may churn out
+less dogmatism and more pragmatism than academics, the penalty for
+faulty assumptions can be both much more greatly and rapidly taxing on
+the markets."
+81,,Why was there a backlash towards theoretical devices in May 2007?,"There were too many failings at the same time. Models were not working, measures were failing, and assumptions seemed to be broken.","There is reason to believe that May 2007 could represent the high-
+water mark for the application of quantitative tools in finance. A backlash
+
+against theoretical devices seems to be in the works. Simply stated, the
+crisis has highlighted too many failings at the same time. Models did not
+work, guiding measures failed horribly, sacred assumptions broke down.
+The math did not forewarn, afforded excess complacency and misguided
+confidence, and justified lethal business practices. Above all, the mayhem
+has helped confirm what many had always known or at least suspected:
+Markets are not quantitatively tamable, and efforts in that direction can
+destroy us."
+82,,How did VaR models fail during the crisis?,VaR assumes an unrealistically low chance of those happenstances occurring. And when the market revealed itself to be non normal and the historical data it was using did not have this data - it failed.,"The problem with this is not just that the effects of rare events may be
+devastating, but that the normal world of VaR assumes an unrealistically
+low chance that those happenstances will happen. In other words, the
+
+VaR number (generally purported to be a reliable guide to the mar-
+ket risks faced by a financial institution) excludes the potentially most
+
+troublesome scenarios and assigns an unseemly high probability to the
+(selected) past repeating itself.
+No wonder, then, that VaR models failed during the crisis. Markets
+spectacularly revealed themselves to be non-normal, and the historical
+sample periods used in the calculation (which range from a few months
+to several years, depending on the institution) did not contain some
+of the things that uniquely took place beginning in the second half of
+2007. Both volatility and correlation behaved in insultingly different ways
+from the recent past. The risk forecast proved spectacularly lacking. The
+official guiding light misguided aplenty. Neither the likelihood nor the
+speed or the severity of the downfall were predicted."
+83,,Why is option selling so tempting?,Allows for a constant stream of cash and does not require initial capital commitment - and the cherry on top is you can highly reduce risks,"Why is option selling such a tempting proposition? Because it allows
+
+you to generate a constant stream of cash (the premium of the sold op-
+tions) for what could be a very long time, thus helping you produce very
+
+tasty returns as the strategy does not require an initial capital commit-
+ment on your part. And the strike of the options could be set in such
+
+a way that the probability that things would turn nasty is (in principle)
+highly diminished. For instance, a time-honored tradition (embraced by
+Niederhoffer, among many others) is to sell deep out-of-the-money puts.
+
+While the premium money collected would be inferior (as the underly-
+ing asset needs to go down a lot for the owner of the option to receive a
+
+payout), only a market crash could wipe you out. As long as the market
+behaves “normally,” you can continue happily pocketing premium cash
+and looking very good to your backers."
+84,,How did Thorp come up with a formula that could identify overpriced options?,His main assumption was a risk-neutral world where he believed that an erroneous error could not be caused by an individual's act of recklessness,"Thorp wasn’t entirely satisfied from a quantitative angle, believing that
+more mathematical strictness could be added to the casual work already
+produced. In so acting, he soon churned out a formula (published in
+1969) exactly similar to Sprenkle’s but, crucially, took a leap of faith and
+assumed a risk-neutral world, thus yielding an identical BSM twin. He
+didn’t think that enormous errors would be introduced by such reckless
+act of individuality and found the end result plausible. So much, that
+he soon began to use the thing for actual trading, as radar that could
+identify massively overpriced options. Also crucially, Thorp continues
+
+to talk about static delta hedging but points in the direction of a dy-
+namic, superior alternative."
+85,,What did we learn about complexity disguise from LCTM?,"It is important to know that underneath all the complex technologies and formulae, what may be happening is just something so simple that conventional wisdom could explain it. However, most professionals are blind to this causing intellectual laziness","Another important lesson to draw from the LTCM episode is what
+could be called the “complexity disguise.” That is, while conventional
+
+wisdom may hold that you are making (or losing) money through extrava-
+gantly, out-of-this-worldly complex, technology-driven, brain-intensive,
+
+PhD-enabled stratagems, in fact, behind the curtain, underneath the veil,
+you may be actually employing the simplest of tactics. Endowing yourself
+with the theoretical mantle helps a lot in this case. After all, surely a bunch
+
+of MIT PhDs won’t be content with pursuing next-door-neighbor trad-
+ing strategies; they must be doing something much funkier beyond the
+
+reach of mere mortals, right? Once more, theoretical and mathematical
+wrappings deliver wonderful benefits on the back of people’s general
+case of conventionalism-blindness (also deemed intellectual laziness, or
+qualifications reverence)."
+86,,How does finance theory present us with iatrogenic risk?,Finance theory was used to navigate the dark but instead led us into a pit full of obscurities - all the worst crises since 1929 have all been due to the failings of the finance theory,"Finance theory can thus present us with an insurmountable case of
+what Nassim Taleb deems “Iatrogenic Risk,” or the healer killing the
+patient. We embraced theory so that it could cure our fear of the dark,
+only to find ourselves immersed in the bleakest, deepest of obscurities.
+We trusted the quantitative doctor with our health, and he killed us.
+It is important to keep firmly in mind that arguably the worst financial
+crises since the 1929 crash were all linked to finance theory, either as
+direct executioner, abettor, or justifier. Dynamic hedging directly caused
+Black Monday in October 1987 which, as we saw, came very close to
+bringing the entire financial system to a halt. The LTCM episode, which
+required a government-sponsored rescue mission so as to save the system,
+was fueled by dogma-adoration and by VaR. The more recent credit
+meltdown, which nasty ramifications need no further reminder, was
+aided by mathematical modeling and by VaR. Blind belief in the power
+of quantification played a substantial (when not entirely causational)
+part in all those debacles. Self-enslavement to equation-laden dictums
+and to diploma-waving wisdom propelled the mayhem vessel to its
+destination."
+87,,Why would quants and theorists want to exterminate Fat Tony?,Fat Tony is somone who is a threat to theorists as they are people who would openly criticise and question their view about the world and thus must be erased.,"Why would (some) quants and theorists want to exterminate Fat Tony?
+In the context of this book, Fat Tony represents those financial pros
+and thinkers who refuse to employ high-tech quantitative stuff or are
+at the very least open and willing to severely question its applicability.
+He represents math-devoid decision making. A world where humans
+(borrowing from their own experience and decades, even centuries, of
+accumulated practical knowledge), not models, rule. A world where a
+PhD-holder doesn’t need to draw on his doctoral wisdom in order to
+be able to make it in the markets. A world where addition, subtraction,
+multiplication, and, maybe, division are all the analytics you would ever
+need. A world that recognizes that prices are ultimately determined by
+emotions, supply, and demand. A world, in effect, that may appear to
+many today as unacceptably backward and illiterate.
+Fat Tony is both a menace and a target for the theorists. He and
+his kind threaten their very existence and their view of the financial
+universe, and must thus be erased."
+88,[Wiley Trading] Euan Sinclair,What are some of the parameters that must be included in an option-pricing model?,"It should include the underlying price, the strike, the time until expiration, any factors related to the delivery of the contract, and some way to quantify future uncertainty.","An option pricing model must include the following variables and
+parameters:
+Underlying price and strike; this determines the moneyness of
+the option.
+Time until expiration.
+Any factors related to carry of either the option or the
+underlying; this includes dividends, borrow rates, storage
+costs, and interest rates.
+Volatility or some other way to quantify future uncertainty"
+89,,What does the efficient market hypothesis propose?,"The efficient market hypothesis (EMH), alternatively known as the efficient market theory, is a hypothesis that states that share prices reflect all available information and consistent alpha generation is impossible","The idea can be stated in many ways, but a simple, general
+expression is as follows:
+A market is efficient with respect to some information if it is
+impossible to profitably trade based on that information.
+And the “profitable trades” are risk-adjusted, after all costs."
+90,,How can we use implied volatility as a predictor?,We can forecast the 30-day volatility of a certain asset by subtracting the variance premium for the current VIX level.,"Implied volatility can be used to predict future realized volatility if
+we account for the variance premium. So a forecast of the 30-day
+volatility for the S&P 500 would be given by subtracting the
+appropriate variance premium for the current VIX level (refer to
+Table 4.3) from the VIX."
+91,,What does the path dependency of returns refer to?,"Path dependency of returns refers to the fact that most traders prefer their portfolio to drop first before rising, even when they end up with the same final return. It shows a valuable insight on trading psychology.","Grosshans and Zeisberger (2018) show that investors also care about exactly
+how their returns are realized. They performed surveys that asked people to
+imagine that they had six stocks. Three made 10% and three lost 10%. But each
+of the three had different paths: up-down, a linear path, or down-up. These are
+shown stylistically in Figures 4.9 and 4.10. For both winners and losers, the participants were happiest when prices first
+declined and then rose. People were even slightly disappointed when stocks rose
+and then fell but were still winners! People are happiest when they feel that they
+have recovered from adversity, snatching victory from the jaws of defeat.
+"
+92,,"What does the paper, “When No News Is Good News—The Decrease in Investor Fear
+after FOMC Announcements” show?",It shows that the VIX and VIX Futures drop significantly after any announcement from the Federal Reserve Open Market Committee (FOMC).,"In “When No News Is Good News—The Decrease in Investor Fear
+after FOMC Announcements” Fernandez-Perez et al. (2017) show
+that the VIX and VIX-Futures drop significantly after the
+announcements of the meeting"
+93,,What's the difference between how condors and butterfly spreads are constructed in theory vs. in practice?,"In theory, they are usually calculated from either all calls or all puts, but in practice, they can be calculated from out-of-the-money options.","These are the more conservative versions of straddles and
+strangles respectively. In each case, exposure to adverse moves is
+capped. Technically, these strategies are constructed from either
+117all calls or all puts but in practice traders use the equivalent iron-
+butterfly and iron-condor structures. These are constructed from
+out-of-the-money options. Put-call parity means these positions
+are exactly the same."
+94,,What are some negatives of the Sharpe Ratio?,"It has a large sampling error, doesn't discern between downside and upside volatility, and it also doesn't take higher order moments into account.","The most well-known of these statistics is the Sharpe ratio, the ratio of
+(excess) return to the volatility of the return. It is also well-known that the
+Sharpe ratio is not perfect. It has a large sampling error, generally
+comparable in size to the estimate. It doesn't distinguish between downside
+and upside volatility. It doesn't take higher-order moments into account at
+all."
+95,,Why don't we own only low cap stocks if they are known to perform well?,"This is because they tend to have the lowest variance permia, so traders will have to choose between better delta performance or better variance performance.","It is well-known that value stocks, momentum stocks, low-beta
+stocks, and small-cap stocks tend to be the best performers. So,
+investors should preferentially own these. Sadly, with the
+exception of momentum stocks, these classes of equities tend to
+have the lowest variance premia. This means that the investor has
+158to choose between better delta performance or better variance
+performance and make the strike choice accordingly. "
+96,,What does the Kelly Criterion maximize best?,The Kelly criterion best maximizes growth.,"The Kelly criterion is only optimal in the sense that it maximizes
+growth. There are many other things a trader could be interested
+in maximizing."
+97,,What are some ways we can cross check if the fund we're working with is trustworthy.,"It is important to look at the people running the fund, and if their record is clean, or if they are likely to rob you, or con you.","The first thing is to look at the people involved. Everything a fund
+does is because of the people running it. You are not investing in a
+fund. You are investing with people. It is important to know who
+the managers are, their backgrounds, their experiences, their
+levels of involvement, and the amount, both professionally and
+financially they have invested."
+98,"[Wiley trading series] Etzkorn, Mark",How can Volume and open interest tell us about futures markets.,"These are both helpful indicators that inform us about a market's liquidity. The higher the volume/open interest, the higher the liquidity.","Volume and open interest are very useful as indicators of a market’s liquidity. Generally speaking, markets with open interest levels below 5,000 contracts, or average daily 
+volume  levels  below  1,000  contracts,  should  be  avoided,  or  at  least  approached  very  cautiously."
+99,,"What is a stop-limit order, and how can it be used?",Stop-limit orders are stop orders in which the actual execution price is limited.,A stop-limit  order  is  a  stop  order  in  which  the  actual  execution  price  is  limited. 
+100,,What information do Candlestick charts contain?,"They contain information about the open, low, high, and close prices on that specific timeframe.","Candlestick  charts  add  dimension  and  color  to  the  simple  bar  chart. The  segment  of  the  bar  that  
+represents the range between the open and close is represented by a two-dimensional “real body,” 
+while the extensions beyond this range to the high and low are shown as lines (called “shadows”)."
+101,,Why do we need Linked-Contract Charts for futures markets?,"We need Linked-contract charts because most futures are short-term in their timescale and to do any meaninful long-term analysis, we need linked contract."," The limited price data available for many futures contracts—even those that are the most actively 
+traded contracts in their respective markets—makes it virtually impossible to apply most chart analy-
+sis techniques to individual contract charts. Even in those markets in which the individual contracts 
+have a year or more of liquid data, part of a thorough chart study would still encompass analyzing 
+multiyear  weekly  and  monthly  charts. Thus,  the  application  of  chart  analysis  unavoidably  requires  
+linking successive futures contracts into a single chart"
+102,,What's the most common type of creating Linked-Contract Charts?,The most common approach for creating linked-contract charts is called the nearest futures method.," The most common approach for creating linked-contract charts is typically termed  nearest futures.  This 
+type of price series is constructed by taking each individual contract series until its expiration and 
+then continuing with the next contract until its expiration, and so on."
+103,,Do trend lines for the same region always look the same?,"No, they do not look the same because different people may interpret different things about the charts."," Presented with the same chart, different people will draw 
+different trend lines. In fact, presented with the same chart at different times, even the same person 
+might well draw the trend line differently"
+104,,What are the three factors that can enhance the strength and reliability of a breakout.,"The three factors are the duration of the trading range, the narrowness of the range, and the confirmation of breakout.","1.    Duration of the trading range.  The longer the duration of a trading range, the more poten-
+tially signifi cant the eventual breakout. This point is illustrated using a weekly chart example in 
+Figure   7.6    and a daily chart example in Figure   7.7   .  
+   2.    Narrowness  of  range.   Breakouts  from  narrow  ranges  tend  to  provide  particularly  reliable  
+trade signals (see Figures   7.8   ,   7.9   , and   7.10   ). Furthermore, such trades can be especially attrac-
+tive since the meaningful stop point implies a relatively low dollar risk.  
+   3.   Confi rmation  of  breakout.   It  is  rather  common  for  prices  to  break  out  from  a  trading  
+range by only a small amount, or for only a few days, and then fall back into the range. One 
+reason  for  this  tendency  is  that  stop  orders  are  frequently  clustered  in  the  region  beyond  a  "
+105,,What's the difference between a Simple Moving average and an Exponential or Weighted Moving Average.,"Weighted and exponential moving averages use multipliers to increase the weightage of more recent data, while in SMA, everything is weighted the same.","Whereas a simple moving average (SMA) weights all prices equally (i.e., a 10-day average is the sum 
+of the closing prices of the past 10 days divided by 10), the weighted moving average (WMA) and 
+exponential moving average (EMA) use multipliers to increase the infl uence of more recent data in 
+the  calculation  "
+106,,"Should we use multiple indicators as ""confirmation"" for a certain trading decision.","No, we shouldn't because oftentimes, multiple indicators are correlated, so they affect each other.","Traders  are  often  exhorted  to  consult  multiple  technical  indicators  to “confirm”  a  potential  trade  
+signal. This advice may sound sensible, but given the high correlation among so many indicators, such 
+confirmation is often an illusion."
+107,,Why can we not use consumption as a substitute for demand?,"This is because the two definitions are completely interrelated and different. Consumption is driven by price, which is in turn driven by supply and demand, so we cannot interlink the two.","Perhaps the most commonly employed solution to the problem of quantifying demand is the use of 
+consumption as a proxy for demand. This approach, however, has one major drawback: It is totally 
+incorrect. The synonymous use of consumption and demand represents a confusion of two entirely 
+diff erent concepts.  Consumption  is the amount of a good used and is determined by price, which in 
+turn is determined by supply and demand factors."
+108,[Wiley trading] Douglas S. Ehrman,What is the spread between two assets?,The spread between two assets is the price difference between the two.,"A  spread  is  defined  as  the  price  differ-
+ence  between  two  stocks:  price  of  stock  A  minus  price  of  stock  B.  A
+spread  trader  will  either  buy  (“go  long”)  the  spread,  assuming  it  will  get
+larger, or will sell (“go short”) the spread, assuming it will become smaller."
+109,,"When doing market-neutral investing, are there limits as to what type of security we can apply the strategy to?","No, Market-Neutral investing can be used for essentially every type of security.","Market-neutral investing may be applied to almost any type of security. A
+market-neutral  manager  may  invest  in  fixed  income,  convertible  bonds,
+futures, options and, of course, equities. Many of the principles that affect
+one security type also affect the others, but some principles are very spe-
+cific to an individual type of instrument."
+110,,Why is volume usually referred to as a secondary indicator?,Because it must be placed in the context of some other indicator to have any practical applications.,"It is usually referred to as a secondary indicator
+because  it  must  be  placed  in  the  context  of  some  other  market  informa-
+tion  to  have  any  practical  application.  "
+111,,What does the RSI indicator measure?,It measures the relative internal strength of the position relative to itself.,"In the case of RSI, the indicator is measuring the relative internal strength
+of the position relative to itself. While this seems counterintuitive, consid-
+eration of the equation and the appropriate use of its output should clarify
+this problem."
+112,,What does the Flatness Coefficient reveal about assets in Pairs trading?,"The flatness coefficient represents the relationship between the two assets we are trading on, whether it is stable/unstable.","The  flatter  the  moving  average,  or  the  smaller  the  degree  of  observ-
+able  trend  in  that  moving  average,  the  higher  the  Flatness  Coefficient.
+When  a  pairs  trader  examines  the  relationship  between  two  stocks,  he
+will find that a high score for this indicator represents a more stable price
+relationship."
+113,,What are the major drawbacks in using the Fundamental approach to pairs trading?,"There is a massive amount of data and research required to put it into practice, high reliance on personal judgement, and lack of clear timing indicators.","The  three  most  obvious  weaknesses  of  the  fundamental  ap-
+proach  are  the  huge  amount  of  data  and  research  required  to  put  it  into
+practice, its high reliance on manager judgment, and its lack of clear tim-
+ing indicators to the manager using it"
+114,,"What is relative-value arbitrage, and how is it relevant to pairs trading?",Relatively value arbitrage is taking oposing position in related assets. This is heavily related to pairs trading because we use multiple assets to trade.,"Relative value arbitrage, therefore, is the ac-
+tivity  of  taking  offsetting  positions  in  securities  that  are  historically  or
+mathematically  related,  but  where  the  relationship  is  temporarily  dis-
+torted."
+115,,What's an advantage of using options in terms of how much stock we can control?,"By using options, traders have a degree of leverage that isn't built into the stock market.","The  first  advantage  of  using  options  is  that  they  provide  a  built-in
+degree  of  leverage  not  available  in  the  stock  market.  With  a  relatively
+small investment, a trader can control a significant amount of stock"
+116,,How can we hedge our positions using options?,"By purchasing options, traders can hedge their bets by planning against disastrous movements. They act as a sort of stop-loss or protection.","The  second  advantage  of  using  options  is  that  in  a  carefully  con-
+structed trade, the manager has a built-in level of protection or stop-loss.
+Most options trades provide for an analysis of a worst-case event, which
+usually requires no action on the part of the trader."
+117,,How do extrinsic events affect established theories and technical patterns?,They can potentially completely disrupt any expected behavior because an event can drive price changes on assets.,"As a result,
+futures  prices  are  highly  dependent  on  the  same  factors:  A  drought  may
+send  wheat  prices  soaring,  unrest  in  the  Middle  East  may  drive  up  gas
+prices,  and  a  new  government  subsidy  on  cotton  may  increase  demand
+and therefore the price of the associated futures contract. In each of these
+cases, some extrinsic force is responsible for driving the price of a com-
+modity in a much more direct and uncontrollable way than a news event
+in the stock market."
